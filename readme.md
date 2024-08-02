@@ -35,6 +35,8 @@
 
 # 目录
 
+1. [p1-p10](notes/p1-p10/index.md)
+
 # 友链
 
 ## 课本来源
@@ -43,4 +45,3 @@
     <img src="svg/github-fill.svg" height="16" alt="github logo">
     <a href="https://github.com/Yoget/Tongji-University-Advanced-Mathematics.git">github.com/Yoget/Tongji-University-Advanced-Mathematics.git</a>
 </p>
-
