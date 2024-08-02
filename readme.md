@@ -22,8 +22,8 @@
 
 ## 网课
 
-<p>
-    <img src="svg/bilibili.svg" style="height: 1em;" alt="bilibili logo">
+<p style="height: 1em;">
+    <img src="svg/bilibili.svg" style="height: 100%;" alt="bilibili logo">
     <a href="https://www.bilibili.com/video/av48624233?p=1&t=40">《高等数学》同济版 2024年更新|宋浩老师</a>
 </p>
 
@@ -39,7 +39,7 @@
 
 ## 课本来源
 
-<p>
-    <img src="svg/github-fill.svg" style="height: 1em;" alt="github logo">
+<p style="height: 1em;">
+    <img src="svg/github-fill.svg" style="height: 100%;" alt="github logo">
     <a href="https://github.com/Yoget/Tongji-University-Advanced-Mathematics.git">github.com/Yoget/Tongji-University-Advanced-Mathematics.git</a>
 </p>
