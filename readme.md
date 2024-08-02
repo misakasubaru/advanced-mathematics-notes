@@ -1,6 +1,6 @@
 # 高数学习笔记
 
-[![Gitee Star](https://gitee.com/msksbr/advanced-mathematics-notes/badge/star.svg?theme=dark)](https://gitee.com/msksbr/advanced-mathematics-notes) ![Stars](https://img.shields.io/github/stars/misakasubaru/advanced-mathematics-notes)
+[![Gitee Star](https://gitee.com/msksbr/advanced-mathematics-notes/badge/star.svg?theme=dark)](https://gitee.com/msksbr/advanced-mathematics-notes) ![Stars](https://img.shields.io/github/stars/misakasubaru/advanced-mathematics-notes?style=social)
 
 这是一个苦逼的挂科人的高数学习笔记😭
 
